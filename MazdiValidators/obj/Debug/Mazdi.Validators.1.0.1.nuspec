@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Mazdi.Validators</id>
+    <version>1.0.1</version>
+    <authors>Mazdaq Shahzad</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <description>This package helps validate data on server side especially for Rest API's. Applicable for other scenarios as well.
+Please note that this package has very basic limited features. More development is going on and new and enhance features will be published as well.</description>
+    <tags>Validation</tags>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Mazdi\source\repos\MazdiValidator\MazdiValidators\bin\Debug\netstandard2.0\Mazdi.Validators.dll" target="lib\netstandard2.0\Mazdi.Validators.dll" />
+  </files>
+</package>

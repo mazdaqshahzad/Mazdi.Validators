@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MazdiValidatorMain/1.0.0": {
+        "dependencies": {
+          "Mazdi.Validators": "1.0.0"
+        },
+        "runtime": {
+          "MazdiValidatorMain.dll": {}
+        }
+      },
+      "Mazdi.Validators/1.0.0": {
+        "runtime": {
+          "Mazdi.Validators.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MazdiValidatorMain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Mazdi.Validators/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

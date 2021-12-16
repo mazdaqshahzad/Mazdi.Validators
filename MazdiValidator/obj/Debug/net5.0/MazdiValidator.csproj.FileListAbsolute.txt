@@ -1,0 +1,16 @@
+C:\Users\Mazdi\source\repos\MazdiValidator\MazdiValidator\bin\Debug\net5.0\MazdiValidator.exe
+C:\Users\Mazdi\source\repos\MazdiValidator\MazdiValidator\bin\Debug\net5.0\MazdiValidator.deps.json
+C:\Users\Mazdi\source\repos\MazdiValidator\MazdiValidator\bin\Debug\net5.0\MazdiValidator.runtimeconfig.json
+C:\Users\Mazdi\source\repos\MazdiValidator\MazdiValidator\bin\Debug\net5.0\MazdiValidator.runtimeconfig.dev.json
+C:\Users\Mazdi\source\repos\MazdiValidator\MazdiValidator\bin\Debug\net5.0\MazdiValidator.dll
+C:\Users\Mazdi\source\repos\MazdiValidator\MazdiValidator\bin\Debug\net5.0\ref\MazdiValidator.dll
+C:\Users\Mazdi\source\repos\MazdiValidator\MazdiValidator\bin\Debug\net5.0\MazdiValidator.pdb
+C:\Users\Mazdi\source\repos\MazdiValidator\MazdiValidator\obj\Debug\net5.0\MazdiValidator.csproj.AssemblyReference.cache
+C:\Users\Mazdi\source\repos\MazdiValidator\MazdiValidator\obj\Debug\net5.0\MazdiValidator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mazdi\source\repos\MazdiValidator\MazdiValidator\obj\Debug\net5.0\MazdiValidator.AssemblyInfoInputs.cache
+C:\Users\Mazdi\source\repos\MazdiValidator\MazdiValidator\obj\Debug\net5.0\MazdiValidator.AssemblyInfo.cs
+C:\Users\Mazdi\source\repos\MazdiValidator\MazdiValidator\obj\Debug\net5.0\MazdiValidator.csproj.CoreCompileInputs.cache
+C:\Users\Mazdi\source\repos\MazdiValidator\MazdiValidator\obj\Debug\net5.0\MazdiValidator.dll
+C:\Users\Mazdi\source\repos\MazdiValidator\MazdiValidator\obj\Debug\net5.0\ref\MazdiValidator.dll
+C:\Users\Mazdi\source\repos\MazdiValidator\MazdiValidator\obj\Debug\net5.0\MazdiValidator.pdb
+C:\Users\Mazdi\source\repos\MazdiValidator\MazdiValidator\obj\Debug\net5.0\MazdiValidator.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Mazdaq Shahzad</Authors>
+    <Company>Mazdaq Shahzad</Company>
+    <Description>This package helps validate data on server side especially for Rest API's. Applicable for other scenarios as well.
+Please note that this package has very basic limited features. More development is going on and new and enhance features will be published as well.</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageTags>Validation</PackageTags>
+    <Version>1.0.1</Version>
+  </PropertyGroup>
+
+</Project>

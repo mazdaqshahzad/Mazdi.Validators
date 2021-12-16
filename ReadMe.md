@@ -1,7 +1,7 @@
 # Mazdi.Validators
 ## Server Side Validations Made Easy
 
-
+## _pull request, improvements and suggestions are welcomed_
 
 Mazdi.Validators is an effort to help reduce manual validations duplicate code and checks on server side especially for Rest API. This is very first version of the Nuget and further development is going to make it more easy to use.
 
